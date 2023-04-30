@@ -152,7 +152,7 @@ def mask_parse(mask):
  
 @app.route('/')
 def index():
-    return render_template('index.html')
+    return render_template('index_upload_and_display_image.html')
  
 @app.route('/',  methods=("POST", "GET"))
 def uploadFile():
