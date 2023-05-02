@@ -8,6 +8,7 @@ click==8.1.3
 colorama==0.4.6
 contourpy
 cycler==0.11.0
+cudatoolkit
 filelock==3.12.0
 Flask
 flatbuffers==23.3.3
