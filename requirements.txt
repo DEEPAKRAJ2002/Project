@@ -1,3 +1,4 @@
+wheel
 absl-py==1.4.0
 astunparse==1.6.3
 blinker==1.6.2
@@ -65,7 +66,6 @@ torch
 torchvision
 tqdm
 typing_extensions
-urllib3==1.21.1
+urllib3==1.26.0
 Werkzeug
 wrapt
-wheel
